@@ -1,10 +1,15 @@
 想找几个手机APP写界面，练练Flutter水平，于是在网上找到一个原型图。
+
 原型图地址在这：http://www.huohuo90.com/
+
 原型图作者的个人空间：https://space.bilibili.com/485469670
+
 背景图片:https://wallhaven.cc/w/vqrxp5
+
 头像地址: https://randomuser.me/api/portraits/women/72.jpg
 
 写了一天半，把界面写完了，之后就没兴趣再优化下去了。
+
 在主页面，也就是“聊天”界面，右上角带圈的add符号，点击会弹出一个列表，大部分页面都可以点击列表项跳转。
 
 有些可优化的地方:
